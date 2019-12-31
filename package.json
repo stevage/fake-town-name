@@ -1,0 +1,14 @@
+{
+  "name": "fake-town-name",
+  "version": "0.0.2",
+  "description": "Generates fake British-sounding town names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "number-generator": "3.0.1"
+  }
+}
